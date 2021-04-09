@@ -1,6 +1,6 @@
 # Random-Forest-Regressor-Knowledge-Solutions-India
 
-This was my final Internship Project for Knowledge Solutions India.
+This was my final Internship Project for Machine Learning Training and Internship with Knowledge Solutions India.
 
 Project Title: “Admission Prediction using Machine Learning”
 
